@@ -1,0 +1,2 @@
+# satpolpp-assets
+Logo
